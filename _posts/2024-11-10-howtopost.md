@@ -25,7 +25,7 @@ tags: [tag1,tag2,tag3] #Tags function like an array, must be separated by a comm
 
 ## References
 
-Below are the links used to build both this post and the previous [Hello Homelab](/_posts/2024-11-10-helloworld.md) post.
+Below are the links used to build both this post and the previous [Hello Homelab](/_posts/2024-11-10-hello-homelab.md) post.
 
 Sites and Docs
 
