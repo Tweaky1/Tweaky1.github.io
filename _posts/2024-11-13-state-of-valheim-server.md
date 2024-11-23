@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Installing Valheim Server and Running It as a systemd Service
+title: Installing Valheim Server and Running it as a systemd Service
 date: 2024-11-13 20:41:00 +-0000
 image: /assets/img/preview/valheim-preview.png
 description: Short tutorial to get a Valheim server up and running on linux and a reminder to myself of how my current Valheim server installation is setup.
-categories: [Reminders]
+categories: [Guide,Reminders]
 tags: [systemd,bash,games]
 ---
 
@@ -12,7 +12,7 @@ tags: [systemd,bash,games]
 
 [__steamcmd__](https://developer.valvesoftware.com/wiki/SteamCMD) is a command line tool required to manage any and all steam games you wish to host locally on a linux based server, including Valheim. Ensure it is installed before proceeding. If you do not see __steamcmd__ listed in the output of the first command use the second to install it.
 
-> Examples are assuming you have a Debian based linux distro using the `apt` package manager. Please use your provided distrobution's package manager and its required syntax.
+> Examples are assuming you have a Debian based linux distro using the `apt` package manager. Please use your provided distrobution's package manager and its syntax.
 {: .prompt-info }
 
 ```bash
